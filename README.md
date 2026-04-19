@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Krithi 👋
 
-<!--
-**Krithi923/Krithi923** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Aspiring Software Engineer | CSE @ UVCE
+I am a 4th-semester Computer Science & Engineering student at University Visvesvaraya College of Engineering, Bangalore. I am focused on building scalable web applications and mastering complex algorithms.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack & Tools
+* **Languages:** Java, JavaScript (ES6+), HTML5, CSS3, C, C++
+* **Concepts:** Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), Operating Systems(OS).
+* **Tools:** Git, GitHub, VS Code
+
+---
+
+### 📈 Current Focus
+* **Learning:** Deep diving into Backend Engineering and Advanced DSA.
+* **Scholarship:** Amazon Future Engineer (AFE) Scholar.
+* **Goal:** Building a strong technical foundation in web development and problem-solving.
+*  **Career Goal:** Preparing for a career in remote software engineering (target:Gitlab).
+
+---
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Krithi923&show_icons=true&theme=tokyonight" alt="Krithi's GitHub Stats" />
+</p>
